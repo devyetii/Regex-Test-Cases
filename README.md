@@ -2,6 +2,7 @@
 Test cases used to assess the programming assignment of CMPN403 Spring 2023
 
 ## 1. Generic: `ab(b|c)*d+`
+Output is added in the directory "case1"
 ## 2. Variable Name `[a-zA-Z_$][a-zA-Z0-9_$]*`
 ## 3. Hex value `0|[1-9A-F][0-9A-F]*|[1-9a-f][0-9a-f]*`
 ## 4. URL `https?://(www.)?[a-zA-Z0-9-_].(com|org|net)`
